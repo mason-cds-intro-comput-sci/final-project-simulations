@@ -11,5 +11,5 @@ notifications:
     on_success: never
 script:
 - make simulations.pdf
-- make simulations.html
 - make simulations.md
+- make simulations.html
