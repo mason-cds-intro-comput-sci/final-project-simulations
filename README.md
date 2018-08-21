@@ -1,11 +1,14 @@
 Final Project — Comparative Discussion of Simulations
 =====================================================
-Due: June 22, 2018 @ 10:30am
+
+> As part of your final project, you will submit a comparative discussion of two simulations.
+
+Due: Month Day, Year @ Time
 
 Guidelines
 ----------
 
-**Purpose** — The field of computational and data sciences extends beyond the topics focused on in this course. From the CDS-101 perspective, we've used the terms **model** and **simulation** as shorthand for *data-driven* models and simulations. Yet, there is an alternative approach to model and simulation building that works in the opposite direction and is an indispensable tool in the natural sciences, engineering, and computational social sciences. This class of models and simulations *generate* predictions and data without using an underlying dataset as input. To distinguish these from their *data-driven* counterparts, we will refer to them as follows:
+**Purpose** — The field of computational and data sciences extends beyond the topics focused on in this course. From the CDS 101 perspective, we've used the terms **model** and **simulation** as shorthand for *data-driven* models and simulations. Yet, there is an alternative approach to model and simulation building that works in the opposite direction and is an indispensable tool in the natural sciences, engineering, and computational social sciences. This class of models and simulations *generate* predictions and data without using an underlying dataset as input. To distinguish these from their *data-driven* counterparts, we will refer to them as follows:
 
 -   A *microscopic* or *mechanism-driven* model or simulation is based on the known laws of nature. An example is deriving equations of motion for the planets in our solar system using Newton's law of universal gravitation.
 

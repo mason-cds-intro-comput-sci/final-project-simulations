@@ -1,6 +1,5 @@
 Title: Final Project — Comparative Discussion of Simulations
-Date: 2018-06-15
 Depends:
-  R (>= 3.4)
+  R (>= 3.5)
 Imports:
   tidyverse
